@@ -31,5 +31,5 @@ Here you can see my *[facebook account](https://www.facebook.com/samvel.demirchy
 
 Write me email by this address *[sam.demirtshyan@gmail.com](https://www.gmail.com)*
 
-if you want to learn coding you can go via the link (text mentioned in blue) and see the website of
+<p style="color:lightgreen">if you want to learn coding you can go via the link (text mentioned in blue) and see the website of</p>
 <a href="http://aca.am/" target="_blank">The best Code Academy in Armenia</a>
