@@ -9,6 +9,7 @@
 
 The task is about the usage of the Git and GitHub. There are many commands and working tools in Git. We have used some of them.
 The used commands list are.
+```
 <ul>
     <li>mkdir (creates new directory (folder))</li>
     <li>cd (changes working directory)</li>
@@ -20,7 +21,11 @@ The used commands list are.
     <li>git config</li>
     <li>git status etc.</li>
 </ul>
+```
 
+```javascript
+const sum = () => 12 + 12
+```
 **all these techniques are used for version control system**
 
 Here is created also the GitHub repo for the usage of git.
@@ -31,7 +36,8 @@ GitHub is a Git repository hosting service, but it adds many of its own features
 
 Here you can see my *[facebook account <img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" width="30px">](https://www.facebook.com/samvel.demirchyan.9)* 
 
-Write me email by this address *[sam.demirtshyan@gmail.com](https://www.gmail.com)*
+Write me email by this address *[sam.demirtshyan@gmail.com <img src="https://image.flaticon.com/icons/png/512/281/281769.png" width ="20px">](https://www.gmail.com)*  
 
 <p style="color:green">if you want to learn coding you can go via the link (text mentioned in blue) and see the website of</p>
-<a href="http://aca.am/" target="_blank">The best Code Academy in Armenia</a>
+
+<a href="http://aca.am/" target="_blank">The best Code Academy in Armenia <img src="https://hirebee-main-new.s3.amazonaws.com/staff.am/upload/8/e/f/d/8efd5525.png" width ="30px"> </a> 
