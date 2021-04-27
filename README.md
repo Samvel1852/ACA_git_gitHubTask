@@ -17,4 +17,5 @@ The used commands list are.
     <li>git init (init local git repo)</li>
     <li></li>
 </ul>
-Here you can see my facebook account *[My Profile](https://www.facebook.com/samvel.demirchyan.9)*
+
+Here you can see my *[facebook account](https://www.facebook.com/samvel.demirchyan.9)*
