@@ -3,6 +3,8 @@
 
 [![N|Solid](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsbqZ37KH02QhPuLO1ruRcIEAiTh4wineiLw&usqp=CAU)]()
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsbqZ37KH02QhPuLO1ruRcIEAiTh4wineiLw&usqp=CAU" width="50px">
+
 **Description of the task**
 
 The task is about the usage of the Git and GitHub. There are many commands and working tools in Git. We have used some of them.
