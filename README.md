@@ -19,3 +19,5 @@ The used commands list are.
 </ul>
 
 Here you can see my *[facebook account](https://www.facebook.com/samvel.demirchyan.9)*
+
+<a href="http://gmail.com/" target="_blank">please open gmail account</a>
