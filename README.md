@@ -3,7 +3,7 @@
 
 [![N|Solid](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsbqZ37KH02QhPuLO1ruRcIEAiTh4wineiLw&usqp=CAU)]()
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsbqZ37KH02QhPuLO1ruRcIEAiTh4wineiLw&usqp=CAU" width="50px">
+<!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsbqZ37KH02QhPuLO1ruRcIEAiTh4wineiLw&usqp=CAU" width="50px"> -->
 
 **Description of the task**
 
@@ -29,7 +29,7 @@ Here is created also the GitHub repo for the usage of git.
 
 GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project.
 
-Here you can see my *[facebook account](https://www.facebook.com/samvel.demirchyan.9)*
+Here you can see my *[facebook account <img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" width="30px">](https://www.facebook.com/samvel.demirchyan.9)* 
 
 Write me email by this address *[sam.demirtshyan@gmail.com](https://www.gmail.com)*
 
