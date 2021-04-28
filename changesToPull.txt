@@ -1,1 +1,3 @@
 The changes should make conflicts when I pull
+The changes had to made conflicts but they were not and we are now trying to understand with this.
+
